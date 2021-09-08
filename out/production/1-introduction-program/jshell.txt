@@ -1,0 +1,4 @@
+double v = 12345.6789;
+System.out.print(v);
+System.out.printf("%.2f", v);
+System.out.printf("%,.2f", v);
